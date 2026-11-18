@@ -24,9 +24,9 @@ AgroTech Digital Consulting es una consultora ficticia especializada en la trans
 — Carpeta con los recursos gráficos del proyecto. 
 
 ## Miembros 
-* **Héctor (hmarnav1606)**
-* **Hugo (HugoC-H)**
-* **Ivan (imr1smr2425-lang)**
+* **Héctor Martínez (hmarnav1606)**: Diseñador de `index.html` y `catalogo.html`
+* **Hugo Campos (HugoC-H)**: Diseñador de `it-ot.html` e `informe.html`
+* **Ivan Montoro (imr1smr2425-lang)**: Diseñador de `sostenibilidad.html` y `mercados.html`
 
 ## Tecnologías utilizadas
 * HTML5
